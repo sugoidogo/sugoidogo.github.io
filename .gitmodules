@@ -1,0 +1,12 @@
+[submodule "obsconnect"]
+	path = obsconnect
+	url = https://github.com/sugoidogo/obsconnect.git
+[submodule "pngtube2"]
+	path = pngtube2
+	url = https://github.com/sugoidogo/pngtube2.git
+[submodule "clippy"]
+	path = clippy
+	url = https://github.com/sugoidogo/clippy.git
+[submodule "TTSAvatar"]
+	path = TTSAvatar
+	url = https://github.com/sugoidogo/TTSAvatar.git
